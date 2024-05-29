@@ -1,2 +1,0 @@
-# Categoria de produto
-
