@@ -2,6 +2,12 @@
 
 teste de inserção ode textos no gitbook
 
+
+
+{% content-ref url="segundo_card.md" %}
+[segundo\_card.md](segundo\_card.md)
+{% endcontent-ref %}
+
 |                                                                       |                                                                        |
 | --------------------------------------------------------------------- | ---------------------------------------------------------------------- |
 | <img src=".gitbook/assets/image (1).png" alt="" data-size="original"> | <p>sdfasdfasf.<br>asdfasdf.<br>ASDFASDF.<br>ASDFASDF.<br>ASDFASDF.</p> |
