@@ -16,6 +16,8 @@ teste de inserção de textos no gitbook
 
 {% file src=".gitbook/assets/PLANILHA TESTE CONTRATO (5).xlsx" %}
 
+{% embed url="https://youtu.be/6p1O3i6FJ9g?si=QxHL3U63yf0aq3Ls" %}
+
 {% content-ref url="segundo_card.md" %}
 [segundo\_card.md](segundo_card.md)
 {% endcontent-ref %}
